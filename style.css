@@ -1,1 +1,8 @@
 body{ background-image: linear-gradient(top blue, bottom green);}
+.cabecalho{
+    background-color: blue;
+    color: antiquewhite;
+    margin: 30px;
+    width: 10;
+    justify-content: center;
+}
