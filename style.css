@@ -1,4 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
 body{ background-color: aquamarine;}
+
 .cabecalho{
     background-color: blue;
     color: antiquewhite;
@@ -9,7 +17,9 @@ body{ background-color: aquamarine;}
 
     .cabecalhotitulo{
 font-size: 30px;
+text-align: center;
     }
     .cabecalhosubtitulo{
         font-size: 20px;
+        text-align: center;
     }
